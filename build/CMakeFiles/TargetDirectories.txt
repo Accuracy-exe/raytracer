@@ -1,0 +1,3 @@
+/home/accuracy/Desktop/raytracer/build/CMakeFiles/raytracer.dir
+/home/accuracy/Desktop/raytracer/build/CMakeFiles/edit_cache.dir
+/home/accuracy/Desktop/raytracer/build/CMakeFiles/rebuild_cache.dir
